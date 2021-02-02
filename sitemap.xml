@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://fusenheizi.github.io/2021/013116107.html</loc>
+    <loc>http://fusenheizi.github.io/2021/0202c512c6a9.html</loc>
     
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-02</lastmod>
     
   </url>
   
@@ -52,6 +52,20 @@
   </url>
 
   
+  <url>
+    <loc>http://fusenheizi.github.io/tags/Colors/</loc>
+    <lastmod>2021-02-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://fusenheizi.github.io/categories/Bio-english/</loc>
+    <lastmod>2021-02-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
